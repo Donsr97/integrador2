@@ -11,10 +11,13 @@ Además deberás instalar los paquetes de *requirement.txt*
 
 
 ### Analisis de sentimientos de comentarios de Youtube
-Obtiene los comentarios de un video en particular de Youtube y realiza un análisis de sentimientos sobre dichos comentarios, clasificandolos como positivos o negativos.
+Obtiene los comentarios de un video en particular de Youtube con la [API de Google](https://console.cloud.google.com/marketplace/product/google/youtube.googleapis.com?q=search&referrer=search&project=sentiment-comments&supportedpurview=project) y realiza un análisis de sentimientos sobre dichos comentarios, clasificandolos como positivos o negativos.
 
-### FUNCIONALIDAD 2 DE GERARDO
-...
+### Clasificación múltiple de textos
+
+Para esta funcionalidad se llevó a cabo word embedding con [GloVe](https://www.kaggle.com/danielwillgeorge/glove6b100dtxt?select=glove.6B.100d.txt) y se desarrolló un modelo con LSTM usando keras. El objetivo del modelo es clasificar y predecir los diferentes tipos de etiquetas que se identifican en un comentario. 
+
+Para el modelo se utilizó una [base de datos](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/overview) con comentarios tóxicos recabados de Wikipedia y etiquetados según el tipo de toxicidad identificado.
 
 ### FUNCIONALIDAD 3 DE RICARD
 ...
