@@ -20,7 +20,9 @@ Obtiene los comentarios de un video en particular de Youtube y realiza un análi
 ...
 
 ### Recursos / Bases de datos utilizados
-  - ..
+ - [Tutorial Sentiment Analyzer](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
+- [Dataset con reviews positivas y negativas](https://pythonprogramming.net/static/downloads/short_reviews/)
+- [Base de datos con tweets positivos, negativos y neutrales](https://www.kaggle.com/kazanova/sentiment140)
 
 ## Integrantes
   - Víctor Villarreal. A01039863
