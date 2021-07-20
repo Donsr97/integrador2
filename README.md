@@ -28,5 +28,7 @@ Para el modelo se utilizó una [base de datos](https://www.kaggle.com/c/jigsaw-t
 - [Base de datos con tweets positivos, negativos y neutrales](https://www.kaggle.com/kazanova/sentiment140)
 
 ## Integrantes
-  - Víctor Villarreal. A01039863
-  - 
+  - Víctor Villarreal. 
+  - Gerardo Silva
+  - Juan Donaldo 
+  - Ricardo Ramirez
